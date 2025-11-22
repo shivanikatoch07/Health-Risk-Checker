@@ -11,8 +11,19 @@ This is a simple python program project that evaluates the user's health on the 
 - Fasting sugar level
 - Lifestyle 
 
+The program uses conditional statements to classify risk as :
+
+- Low Health Risk
+- Moderate Health Risk
+- High Health Risk
+
 ## Features
 
 - Simple User Input
 - Uses if/elif/else decision making
 - Real world health application 
+
+## Technologies Used
+
+- Python (Basic Input/Output)
+- Conditional Statements
